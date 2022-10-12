@@ -1,0 +1,72 @@
+.bg{
+    background-image: url("11f3de584bdb78844bea83e45a9e04b5.jpg");
+    height: 450px;
+    background-size: cover;
+    padding: 40px;
+    color: #ffffff;
+    background-color: #894bca;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    text-decoration: underline;
+    text-shadow: black;
+    text-decoration-color: gainsboro;
+    font-size: larger;
+    color: mediumturquoise;
+}
+p{
+    text-align: justify;
+    color: whitesmoke;
+}
+button{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.my{
+    text-align: center;
+}
+.p2{
+    color: black;
+}
+.bg2{
+    background-image: url("Lord-Krishna-Pictures.jpg");
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: coral;
+    background-color: black;
+    min-height: auto;
+}
+.card{
+    background-color: red;
+    border-radius: 30px;
+
+}
+span{
+ text-align: right;
+ margin: 20px 40px 70px 40px;
+ border-radius: 20px;
+ border-color: bisque;
+ color: black;
+}
+.cl3{
+    text-align: left;
+}
+.cl3 img{
+    border-radius: 30px;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    float: left;
+}
+.ul{
+    text-align: right;
+    font-size: 30px;
+    font-weight: 20px;
+    color: burlywood;
+    list-style-type: none;
+}
+
+
+
+
